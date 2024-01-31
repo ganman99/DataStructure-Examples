@@ -15,3 +15,6 @@ Implement a Java application that place each word from textfile to a hash table.
 Fourth Question:
 Write a Java program that calculates a mathematical string received from the user.You must calculate your values either use tree or stack.
 You can use both of them. It’s up to you. Hint: You can use infix posVix or prefix expressions.
+
+These questions belong to Ahmet Cahit YAŞA
+He is academician in Manisa Celal Bayar University
